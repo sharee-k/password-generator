@@ -1,4 +1,10 @@
 // Assignment code here
+var passwordCharacters = {
+  lowercase: 'abcdefghijklmnopqrstuvwxyz',
+  uppercase: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
+  number: '0123456789',
+  symbol: '!@#$%^&*()-+=<>?[]{}',
+};
 
 
 // Get references to the #generate element
